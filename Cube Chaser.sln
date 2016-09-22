@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube Chaser.CSharp.Plugins", "Cube Chaser.CSharp.Plugins.csproj", "{59A0D208-F09B-474B-054B-6884351FA4D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube Chaser.CSharp", "Cube Chaser.CSharp.csproj", "{F0EF49A8-AA96-4776-E156-51CDCFA6526A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube Chaser.CSharp.Editor", "Cube Chaser.CSharp.Editor.csproj", "{60547287-8049-5596-B222-2190692F4EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A0D208-F09B-474B-054B-6884351FA4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A0D208-F09B-474B-054B-6884351FA4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A0D208-F09B-474B-054B-6884351FA4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A0D208-F09B-474B-054B-6884351FA4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0EF49A8-AA96-4776-E156-51CDCFA6526A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EF49A8-AA96-4776-E156-51CDCFA6526A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EF49A8-AA96-4776-E156-51CDCFA6526A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EF49A8-AA96-4776-E156-51CDCFA6526A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60547287-8049-5596-B222-2190692F4EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60547287-8049-5596-B222-2190692F4EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60547287-8049-5596-B222-2190692F4EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60547287-8049-5596-B222-2190692F4EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
